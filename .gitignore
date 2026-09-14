@@ -1,0 +1,15 @@
+# Build output
+/build/
+*.o
+*.d
+
+# Generated ImgFS stores and extracted derivatives
+*.imgfs
+*_orig.jpg
+*_small.jpg
+*_thumb.jpg
+
+# Editor and operating-system metadata
+.DS_Store
+*.swp
+*~
